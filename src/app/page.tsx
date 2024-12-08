@@ -14,7 +14,7 @@ export default function Home() {
     {/* Images part */}
 <div className="flex flex-row gap-7 justify-center">
 <Image
-  src="/images/chair.svg" alt="chair"
+  src="Image/chair.svg" alt="chair"
   width={13} height={12}
   className="h-[199px] w-[109px] "
   />
@@ -22,26 +22,26 @@ export default function Home() {
 
 <div className="max:block mien:flex mien:gap-7">
 <Image
-  src="/images/bulb.svg" alt="chair"
+  src="Image/bulb.svg" alt="chair"
   width={13} height={12}
   className="h-[199px] w-[109px] mt-20"
   />
 
 <Image
-  src="/images/dabba.svg" alt="chair"
+  src="Image/dabba.svg" alt="chair"
   width={13} height={12}
   className="h-[199px] w-[109px] mt-12 max:hidden"
   />
 
 <Image
-  src="/images/table.svg" alt="chair"
+  src="Image/table.svg" alt="chair"
   width={13} height={12}
   className="h-[199px] w-[109px] mt-4 max:hidden"
   />
   </div>
 
 <Image
-  src="/images/cup.svg" alt="chair"
+  src="Image/cup.svg" alt="chair"
   width={13} height={12}
   className="h-[199px] w-[109px] mb-[200px] max:mb-0"
   />
@@ -50,13 +50,13 @@ export default function Home() {
 {/* mobileee... */}
 <div className="flex mien:hidden">
 <Image
-  src="/images/dabba.svg" alt="chair"
+  src="Image/dabba.svg" alt="chair"
   width={13} height={12}
   className="h-[199px] w-[109px] ml-24 mt-0 max:block"
   />
 
 <Image
-  src="/images/table.svg" alt="chair"
+  src="Image/table.svg" alt="chair"
   width={13} height={12}
   className="h-[199px] w-[109px] mt-0 ml-20"
   />
@@ -93,19 +93,19 @@ export default function Home() {
 
 <div className="flex">
 <Image
-  src="/images/headings.svg" alt="chair"
+  src="Image/headings.svg" alt="chair"
   width={13} height={12}
   className="h-[140px] w-[199px] mt-[73px] ml-[17px] max:h-[120px] max:w-[100px] max:mt-[95px] max:ml-[43px]"
   />
 
 <Image
-  src="/images/blue.svg" alt="chair"
+  src="Image/blue.svg" alt="chair"
   width={130} height={120}
   className="h-[190px] w-[199px] mt-6 max:h-[250px] max:ml-3 max:w-[100px] max:mt-0"
   />
 
 <Image
-  src="/images/dark.svg" alt="chair"
+  src="Image/dark.svg" alt="chair"
   width={130} height={120}
   className="h-[140px] w-[199px] mt-[73px] max:h-[250px] max:w-[100px] max:ml-3 max:mt-[21px] "
   />
@@ -131,13 +131,13 @@ the<br/> Style Guide page and under the components header<br/> you can see every
 
 <div className="flex">
         <Image
-  src="/images/chair.svg" alt="chair"
+  src="Image/chair.svg" alt="chair"
   width={13} height={12}
   className="h-[120px] w-[109px] max:w-[90px] mt-3 ml-[47px] max:ml-10"
   />
 
 <Image
-  src="/images/dabba.svg" alt="chair"
+  src="Image/dabba.svg" alt="chair"
   width={13} height={12}
   className="h-[120px] w-[109px] max:w-[90px] mt-3 max:ml-3"
   />
@@ -149,7 +149,7 @@ the<br/> Style Guide page and under the components header<br/> you can see every
   <button className="py-[5px] bg-[#F9F9F926] text-[#FFFFFF] mt-3 flex items-center justify-center  px-[14px]">Button</button>
   </div>
   <Image
-  src="/images/tick.svg" alt="chair"
+  src="Image/tick.svg" alt="chair"
   width={130} height={120}
   className="h-[170px] w-[199px] max:h-[155px] max:w-[134px]"
   />
@@ -172,20 +172,20 @@ the<br/> Style Guide page and under the components header<br/> you can see every
 
 <div className="flex mt-3 ml-4">
 <Image
-  src="/images/chear.svg" alt="chair"
+  src="Image/chear.svg" alt="chair"
   width={13} height={12}
   className="h-[180px] w-[199px] max:h-[145px] max:w-[169px]  mt-3 "
   />
 
 <Image
-  src="/images/chear1.svg" alt="chair"
+  src="Image/chear1.svg" alt="chair"
   width={13} height={12}
   className="h-[180px] w-[199px] max:h-[145px] max:w-[169px] mt-3"
   />
 
 
 <Image
-  src="/images/cap (2).svg" alt="chair"
+  src="Image/cap (2).svg" alt="chair"
   width={13} height={12}
   className="h-[180px] w-[199px] max:h-[145px] max:w-[169px] mt-3"
   />
@@ -201,7 +201,7 @@ the<br/> Style Guide page and under the components header<br/> you can see every
         <p className="pl-[47px] mien:hidden pt-4 text-xs">We’ve built out a multitude of content blocks for you to <br/>use in your landing pages. From hero sections, forms,<br/> CTAs to pricing sections. Everything you need to get<br/> started building polished, modern landing pages.</p>
     
  <Image
-  src="/images/email.svg" alt="chair"
+  src="Image/email.svg" alt="chair"
   width={13} height={12}
   className="h-[180px] w-[520px] ml-[47px] mt-3 max:h-[120px] max:mt-10 max:w-[320px]"
   />
