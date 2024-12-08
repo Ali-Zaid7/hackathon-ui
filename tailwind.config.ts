@@ -8,6 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      screens: {
+        "max" : {"max":"480px"},
+        "mien" : {"min": "480px" },
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
